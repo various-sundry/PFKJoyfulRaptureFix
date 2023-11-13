@@ -1,0 +1,12 @@
+{
+  "Id": "JoyfulRaptureFix",
+  "DisplayName": "Joyful Rapture Fix",
+  "Author": "various-sundry",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.8",
+  "Requirements": [],
+  "AssemblyName": "JoyfulRaptureFix.dll",
+  "EntryMethod": "JoyfulRaptureFix.Main.Load",
+  "HomePage": "https://www.nexusmods.com/pathfinderkingmaker/mods/297",
+  "Repository": "https://raw.githubusercontent.com/various-sundry/PFKJoyfulRaptureFix/master/Repository.json"
+}
